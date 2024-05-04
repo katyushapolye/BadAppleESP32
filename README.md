@@ -8,8 +8,12 @@ To set it up, firstly you will need the following parts requirement
   - A USB Cable to Mini-USB, for connecting the ESP32 to your computer.
 
 The hardware setup is as follows...
+
+
 -Black lines are ground
+
 -Green lines are Signal lines
+
 -Red lines are positive voltage lines (and in the buzzer case, also signal)
 
 ![image](https://github.com/katyushapolye/BadAppleESP32/assets/61098580/f54a0f7a-2b4c-4c54-83a9-54c55014b045)
