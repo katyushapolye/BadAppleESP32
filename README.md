@@ -16,8 +16,7 @@ The hardware setup is as follows...
 
 -Red lines are positive voltage lines (and in the buzzer case, also signal)
 
-![image](https://github.com/katyushapolye/BadAppleESP32/assets/61098580/f54a0f7a-2b4c-4c54-83a9-54c55014b045)
-
+![image](https://github.com/katyushapolye/BadAppleESP32/assets/61098580/21dc2c3f-a46c-4f57-9814-3868bd9130f0)
 
 -For software...well, its a bit more complicated. You will have to setup the IDF SDK in your computer
 I used a Ubunto laptop, at version 22.04 LTS, using VSCODE, the instalation was pretty straight foward, using the
