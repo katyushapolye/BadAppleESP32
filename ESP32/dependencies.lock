@@ -1,0 +1,15 @@
+dependencies:
+  fasani/adafruit_gfx:
+    component_hash: 8e1c83032d233ad8db4adc82209e1c7f89b9784513d7dd70bdc95260b3409135
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.7.8
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.1
+manifest_hash: 6496aab62f5378076bcfd908a16ed9ee435027a0c773b67d4b3db380b5db093e
+target: esp32
+version: 1.0.0
